@@ -1,0 +1,9 @@
+{
+  "id": "inklink",
+  "name": "InkLink",
+  "version": "0.3.0",
+  "minAppVersion": "1.8.7",
+  "description": "Read-later queue for Supernote: saves a shared article link as a note and as an EPUB in a synced folder.",
+  "author": "Adekri",
+  "isDesktopOnly": false
+}

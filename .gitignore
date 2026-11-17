@@ -1,0 +1,7 @@
+node_modules/
+build/
+dist/
+main.js
+*.log
+.DS_Store
+data.json
